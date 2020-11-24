@@ -1,7 +1,7 @@
 ## Season Display - React 
 
 ## What is this project?
-A simple project which takes the location of the user and determines wether its summer or winter.
+A simple project which takes the location of the user and determines whether it's summer or winter.
 
 ## What I learnt?
 1. React Class Components - creating class components using the react syntax, making sure that the class extends React.Component & has a Render() method.
