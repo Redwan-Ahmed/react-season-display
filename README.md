@@ -1,5 +1,5 @@
 # Season Display - React 
-👉[Demo](https://seasons-react.herokuapp.com/)👈 (Allow access to your location for the app to work)
+👉[Demo](https://redwan-react-season.netlify.app/)👈 (Allow access to your location for the app to work)
 
 ## What is this project? 🤔
 * A simple project which takes the location of the user and determines whether it's summer or winter.
